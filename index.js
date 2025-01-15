@@ -1,4 +1,4 @@
-agrequire('dotenv').config()
+grequire('dotenv').config()
 const express = require('express')
 const cors = require('cors')
 
