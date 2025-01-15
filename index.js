@@ -19,8 +19,7 @@ uggugqt
 
 
 
-reg=quire 
-   
+reg=quire    
 require('dotenv').config()
 const express = require('express')
 const cors = require('cors')
