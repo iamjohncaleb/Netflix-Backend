@@ -1,4 +1,4 @@
-aghjirequire('dotenv').config()
+aghjrequire('dotenv').config()
 const express = require('express')
 const cors = require('cors')
 
