@@ -10,7 +10,7 @@ aghjig
 
 
 
-=
+
 
 uggugq
 require('dotenv').config()
